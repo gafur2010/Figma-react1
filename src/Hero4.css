@@ -1,0 +1,327 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Open+Sans:wght@300&family=Lato:wght@300&family=Nunito:wght@300&family=Inter:wght@300&display=swap");
+
+.div4-1 {
+  width: 1211px;
+  height: 695px;
+  top: 2858px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.h4-1 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 70px;
+  letter-spacing: -1.875789999961853px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.div4-2 {
+  width: 1111px;
+  height: 140px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.btn4-1 {
+  width: 160px;
+  height: 55px;
+  top: 5px;
+  left: 800px;
+  gap: 0px;
+  border-radius: 10px 0px 0px 10px;
+  opacity: 0px;
+  position: absolute;
+  background: rgba(84, 84, 212, 1);
+}
+
+.h4-3 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20.83px;
+  letter-spacing: -0.5002105832099915px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.h4-4 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20.83px;
+  letter-spacing: -0.5002105832099915px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  top: 23px;
+  left: 1000px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.div4-3 {
+  width: 330px;
+  height: 441px;
+  top: 300px;
+  left: 25px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+  background: rgba(248, 248, 248, 1);
+  border-radius: 10px;
+}
+
+.h4-5 {
+  margin-top: 20px;
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: -0.5627369284629822px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.h4-6 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: -1.034482717514038px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.h4-7 {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 50px;
+  letter-spacing: -0.5314737558364868px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.btn4-2 {
+  width: 285px;
+  height: 60px;
+  top: 354px;
+  left: 24px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+  border-radius: 15px;
+}
+
+.h4-8 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 22.13px;
+  letter-spacing: -0.5314737558364868px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(84, 84, 212, 1);
+}
+
+.div4-2 {
+  width: 1111px;
+  height: 140px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.btn4-1 {
+  width: 160px;
+  height: 55px;
+  top: 5px;
+  left: 800px;
+  gap: 0px;
+  border-radius: 10px 0px 0px 10px;
+  opacity: 0px;
+  position: absolute;
+  background: rgba(84, 84, 212, 1);
+}
+
+.h4-3 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20.83px;
+  letter-spacing: -0.5002105832099915px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.h4-4 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20.83px;
+  letter-spacing: -0.5002105832099915px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  top: 23px;
+  left: 1000px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.div4-4 {
+  width: 330px;
+  height: 441px;
+  top: 300px;
+  left: 400px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+  background: rgb(221, 157, 111);
+  border-radius: 10px;
+}
+
+.h4-8 {
+  margin-top: 20px;
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: -0.5627369284629822px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.h4-9 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: -1.034482717514038px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.h4-10 {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 50px;
+  letter-spacing: -0.5314737558364868px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.btn4-3 {
+  width: 285px;
+  height: 60px;
+  top: 354px;
+  left: 24px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+  border-radius: 15px;
+  background-color: rgb(77, 77, 153);
+}
+
+.h4-11 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 22.13px;
+  letter-spacing: -0.5314737558364868px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgb(255, 255, 255);
+}
+.div4-5 {
+  width: 330px;
+  height: 441px;
+  top: 300px;
+  left: 400px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+  background: rgb(221, 157, 111);
+  border-radius: 10px;
+}
+
+.h4-12 {
+  margin-top: 20px;
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: -0.5627369284629822px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.h4-13 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: -1.034482717514038px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.h4-14 {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 50px;
+  letter-spacing: -0.5314737558364868px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.btn4-4 {
+  width: 285px;
+  height: 60px;
+  top: 354px;
+  left: 24px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+  border-radius: 15px;
+  background-color: rgb(77, 77, 153);
+}
+
+.h4-15 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 22.13px;
+  letter-spacing: -0.5314737558364868px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgb(255, 255, 255);
+}

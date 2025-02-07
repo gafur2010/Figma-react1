@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Open+Sans:wght@300&family=Lato:wght@300&family=Nunito:wght@300&family=Inter:wght@300&display=swap");
+
+.divH-1 {
+  margin-top: 200px;
+  width: 1146px;
+  height: 644px;
+  top: 1900px;
+  left: 200px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.h3-1 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 57px;
+  letter-spacing: -1.563158392906189px;
+  text-align: left;
+  text-decoration-skip-ink: none;
+}
+
+.h3-2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: -0.6252632141113281px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.img3-1 {
+  width: 207.37px;
+  height: 298.31px;
+  top: -170px;
+  left: 941px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.img3-2 {
+  width: 324px;
+  height: 474px;
+  top: -170px;
+  left: 800px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.img3-3 {
+  margin-top: 300px;
+  margin-left: 60px;
+}

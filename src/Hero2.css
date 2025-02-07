@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Open+Sans:wght@300&family=Lato:wght@300&family=Nunito:wght@300&family=Inter:wght@300&display=swap");
+
+.img-1 {
+  width: 167.52px;
+  height: 176.49px;
+  top: 1376px;
+  left: 254px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.img-2 {
+  width: 500px;
+  height: 473px;
+  top: 1300px;
+  left: 430px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.div-1 {
+  width: 556px;
+  height: 229px;
+  top: 1400px;
+  left: 698px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.h-1 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 57px;
+  letter-spacing: -1.563158392906189px;
+  text-align: left;
+  text-decoration-skip-ink: none;
+}
+
+.h-2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400px;
+  line-height: 30px;
+  letter-spacing: -0.6252632141113281px;
+  text-align: left;
+  text-decoration-skip-ink: none;
+}
+
+.h-3 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 22.13px;
+  letter-spacing: -0.5314737558364868px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(84, 84, 212, 1);
+}

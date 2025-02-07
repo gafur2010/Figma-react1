@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Open+Sans:wght@300&family=Lato:wght@300&family=Nunito:wght@300&family=Inter:wght@300&display=swap");
+.text-1 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 77px;
+  letter-spacing: -2.5px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.text-2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: -0.6252632141113281px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  width: 459px;
+  height: 90px;
+  top: 261px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.btn-1 {
+  width: 211px;
+  height: 60px;
+  top: 401px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #5454d4;
+}
+
+.btn-2 {
+  width: 60px;
+  height: 60px;
+  top: 421px;
+  left: 251px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+  border: 50% solid;
+  font-size: 30px;
+}
